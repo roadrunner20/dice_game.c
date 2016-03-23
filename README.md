@@ -1,1 +1,1 @@
-# dice_game.c
+3 player game with Referee where All four communicates through a single file and the referee declares the winner according to the winning range entered by the user. A good example of communication of various processes via single file. (Ctrl-c and Ctrl-Z is ignored when the game is on! 
